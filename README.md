@@ -327,27 +327,33 @@ The dashboard allows users to analyze several important tournament insights, inc
 
 ### 🏠 Home Page
 
-> Add your Home Page screenshot here.
+> <img width="1600" height="771" alt="Landing Page" src="https://github.com/user-attachments/assets/e2468e22-4245-45ac-9034-10743c5c4005" />
+
 
 ### 📊 Overview
 
-> Add your Overview dashboard screenshot here.
+> <img width="1600" height="769" alt="Overview" src="https://github.com/user-attachments/assets/5efe9bf9-b88b-4bae-ab5e-83beb32fd65a" />
+
 
 ### ⚽ Goals & Scorers
 
-> Add your Goals & Scorers screenshot here.
+> <img width="1600" height="771" alt="Goals   Scorers" src="https://github.com/user-attachments/assets/bd1236d8-c007-47ab-9ef8-c62332f5fb23" />
+
 
 ### 🏆 Groups & Standings
 
-> Add your Group Standings screenshot here.
+> <img width="1600" height="771" alt="Groups   Standings" src="https://github.com/user-attachments/assets/7273a203-efda-4ee1-8510-0bdd2321f8b8" />
+
 
 ### 🏟️ Stadiums & Attendance
 
-> Add your Stadiums & Attendance screenshot here.
+> <img width="1600" height="769" alt="Stadiums   Attendance" src="https://github.com/user-attachments/assets/8ac752c8-223c-4ddc-a742-6b91511fadf0" />
+
 
 ### 🥇 Top 10 Scorers
 
-> Add your Top 10 Scorers screenshot here.
+> <img width="1600" height="771" alt="Top 10 Scorers" src="https://github.com/user-attachments/assets/f936f301-a260-4a3f-9cc7-6a952c683a35" />
+
 
 ---
 
